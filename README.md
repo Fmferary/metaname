@@ -1,1 +1,7 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x79Eb3E19e6Ab17b50b56c926A6583d5b456eB019'
+quorum: 1
 # metaname
